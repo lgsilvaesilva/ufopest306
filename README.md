@@ -1,2 +1,1 @@
-# dataviz2020
-Introduction to Data Visualization for Data Scientist
+Palestra para os alunos de estatística da UFOP sobre carreira e possibilidades.
